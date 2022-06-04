@@ -10,7 +10,7 @@ There are 3 groups of student namely Undergrad, Postgrad, Others.
 
 We can compare the clustering result by using the 5 similarity measures.
 
-![K_means](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/demo_img/kmeans_clustering.png)
+![K_means](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/blob/main/demo_img/kmeans_clustering.png)
 
 
 ## 6 Months Data Visualization
@@ -21,13 +21,13 @@ The data is aggregated into 1 day.
 
 When we click the building block on the map, the charts in the middle will change dynamically.
 
-![6_months](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/demo_img/student_data_6_months.png)
+![6_months](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/blob/main/demo_img/student_data_6_months.png)
 
 ## 1 Day Data Visualization
 
 We can select each day for detailed investigation.
 
-![1_day](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/demo_img/student_data_1_day.png)
+![1_day](https://github.com/C4caesar/R-Shiny-Data-Dashboard-with-interactive-Map/blob/main/demo_img/student_data_1_day.png)
 
 ## Website
 
